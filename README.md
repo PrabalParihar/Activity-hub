@@ -1,20 +1,35 @@
-# Getting Started with Create React App
+# Activity Hub - Social Media App
+  Activity Hub is a social media application built using React and Ethereum blockchain. It allows users to connect their Ethereum wallet, explore posts from other users, and follow 
+  their favorite profiles.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+* Getting Started
+* Features
+* Dependencies
+* Usage
+* Contributing
+* License
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+To get started with Activity Hub, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* Clone the repository to your local machine:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+`git clone https://github.com/your-username/activity-hub.git`
 
-### `npm test`
+## Change your working directory to the project folder
+
+`
+cd activity-hub
+`
+
+## Install the necessary dependencies using npm:
+
+`
+npm install
+`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
